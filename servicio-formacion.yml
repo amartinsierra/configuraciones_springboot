@@ -13,4 +13,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 testing:
-  message: Mensaje modificado posteriormente
+  message: Mensaje totalmente actualizado
