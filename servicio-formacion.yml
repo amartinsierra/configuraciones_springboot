@@ -6,7 +6,7 @@ remote:
   password: ${REMOTE_PASS}
 oauth2:
   url: http://localhost:8080/realms/springrealm/protocol/openid-connect/token
-  clientId: springclient
+  clientId: springclientnew
   grantType: password
 eureka:
   client:
